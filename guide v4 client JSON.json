@@ -1,10 +1,10 @@
 {
 
  
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
-  "applovin_rewarded_id": "xxxxxx",
+  "applovin_banner_id": "b5d23c739c8b4c76",
+  "applovin_interstitial_id": "a794780d3617c550",
+  "applovin_native_id": "25b43afb9bb6bcfc",
+  "applovin_rewarded_id": "edc5c3a64f46e1bf",
   "max": true,
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,17 +14,17 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "000",
-  "Banner": "000",
-  "Native": "xxx",
-  "Rewarded": "000",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "main_inter": true,
-  "os_inter": false,
-  "gender_inter": false,
+  "os_inter": true,
+  "gender_inter": true,
   "age_inter": true,
-  "setup_inter": false,
+  "setup_inter": true,
   
   "rate": false,
   
@@ -44,7 +44,7 @@
   "guides": [
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
+	 "title": "use",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
 
@@ -54,7 +54,7 @@
 	},
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
+	 "title": "turbo",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
 
